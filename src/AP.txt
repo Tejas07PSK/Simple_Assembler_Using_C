@@ -1,5 +1,0 @@
-X dd 5
-sum dd 0
-MVI C,X
-MOV C,A
-MVI A,R
