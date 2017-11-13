@@ -1,0 +1,3 @@
+MVI A,<c>-5
+MVI C,<c>-5
+MOV C,A-1
