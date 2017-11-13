@@ -14,7 +14,11 @@
  * -> --Note-- - Some comments were added here and there throughout the source code
  *               to verify the flow control and correctness of the program. Please
  *               ignore them.
+ * -> About .out file - It has been named assemb2p.out and it was compiled using Xcode's cLang compiler
+ *                      for C99 standard on a MacOS X (Sierra 10.12.6). Please recompile if necessary
+ *                      according to your OS.
  */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
