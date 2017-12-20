@@ -56,7 +56,7 @@ int main()
   return (0);
 }
 
-//Uncomment this module/subroutine one for filling in the assembler program and the machine-opcode table and then recomment it!!
+//Uncomment this module/subroutine once for filling in the assembler program and the machine-opcode table and then recomment it!!
 
 /*void write()
 {
